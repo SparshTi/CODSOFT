@@ -1,4 +1,4 @@
-# Python Mini Projects
+# Python Projects
 
 This repository contains five simple Python programs. Each program is standalone and demonstrates basic functionality using Python. All programs are written in Python and require **Python 3.12.6** to run.
 
